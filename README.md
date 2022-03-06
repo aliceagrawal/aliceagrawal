@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Alice!
+- 👀 I’m interested in Machine Learning and Finance!
+- 🌱 I’m currently learning how to become a Data Scientist with Flatiron school!
+- 📫 How to reach me at alice.agrawal30@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/alice-agrawal-7a3194110/)
